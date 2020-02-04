@@ -5,6 +5,8 @@ module.exports = {
 }
 
 /**
+some text
+
  * Get a list up to the `nth` integer in the Fibonacci sequence (inclusive).
  *
  * @param {number} nth The number to get a list up to (inclusive)
